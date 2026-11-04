@@ -116,4 +116,4 @@ Errors always use `{"error": {"code": "...", "message": "..."}}`: 404 `not_found
 
 ## Time spent and use of AI
 
-About **2 hours**. I used an AI assistant for guidance (explaining DevTools, SvelteKit and devalue concepts, debugging tracebacks) and to help draft code and documentation. I did the exploration of the portal myself in the browser and tested and fixed the code against the live portal. 
+About **3-4 hours**. I used an AI assistant for guidance (explaining DevTools, SvelteKit and devalue concepts, debugging tracebacks) and to help draft code and documentation. I did the exploration of the portal myself in the browser and tested and fixed the code against the live portal. 
